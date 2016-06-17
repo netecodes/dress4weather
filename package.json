@@ -1,0 +1,19 @@
+{
+  "name": "dress4weather",
+  "version": "1.0.0",
+  "description": "get a hint of how the temperature feels like through the real world",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Campos",
+  "license": "ISC"
+}
